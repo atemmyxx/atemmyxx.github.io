@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #add8e6;
+}
+
+section {
+  padding-top: 5rem;
+  min-height: 600px;
+}
+
+#services .card-title {
+  margin-top: 20px;
+}
+
+#services p {
+  text-align: justify;
+}
